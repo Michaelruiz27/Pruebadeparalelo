@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\bin\Debug\net6.0\PruebadeParalelo.exe
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\bin\Debug\net6.0\PruebadeParalelo.deps.json
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\bin\Debug\net6.0\PruebadeParalelo.runtimeconfig.json
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\bin\Debug\net6.0\PruebadeParalelo.dll
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\bin\Debug\net6.0\PruebadeParalelo.pdb
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.dll
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\refint\PruebadeParalelo.dll
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.pdb
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\PruebadeParalelo.genruntimeconfig.cache
+C:\Users\DELL\source\repos\PruebadeParalelo\PruebadeParalelo\obj\Debug\net6.0\ref\PruebadeParalelo.dll
